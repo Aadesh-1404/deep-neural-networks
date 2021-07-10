@@ -4,4 +4,4 @@ Understood the basics of the deep neural networks. Build the DNN models FCNN, CN
       - A three dense layered Fully Connected Neural Network model was build and the model was tested by this dataset.
     > - From keras.datasets imported CIFAR-10 dataset which contains colour images in 10 classes, with 6000 images per class. There are 50000 training images and 10000 test             images.
       - A CNN model comrising of three convolutional layers and two dense layers was built and the CIFAR-10 dataset was tested on this model.
-    > - 
+    > - RCNN
